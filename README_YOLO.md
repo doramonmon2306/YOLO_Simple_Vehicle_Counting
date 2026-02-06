@@ -95,7 +95,7 @@ This makes it easy to visually verify the correctness of the counting logic.
 
 ---
 
-## 🇫🇷 Version Française
+## Version Française
 
 ---
 
@@ -191,5 +191,6 @@ La vidéo résultante inclut :
 - Un affichage du compteur en superposition
 
 Cela facilite la vérification visuelle de l'exactitude de la logique de comptage.
+
 
 ---
